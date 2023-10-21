@@ -1,7 +1,7 @@
 BC3.04a Advanced Programming for HPC
 =============================================
 
-This is a sample project for USTH ICT Master 2023.
+This is my project for USTH ICT Master 2023.
 
 Students are expected to:
 
